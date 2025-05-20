@@ -15,7 +15,7 @@ nltk.download("omw-1.4")
 nltk.download("punkt")
 
 # Токен бота 
-BOT_TOKEN = "7679561637:AAG7dtHbfTbyhlaU9ZlqHBtIB_m1vvaJAJE"
+BOT_TOKEN = ""
 
 # Путь к файлу с параллельным корпусом в формате TMX
 TMX_FILE = "C:\\Users\\infinix\\Desktop\\it-ru (3).tmx"
