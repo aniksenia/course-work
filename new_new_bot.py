@@ -18,7 +18,7 @@ nltk.download("punkt")
 BOT_TOKEN = ""
 
 # Путь к файлу с параллельным корпусом в формате TMX
-TMX_FILE = "C:\\Users\\infinix\\Desktop\\it-ru (3).tmx"
+TMX_FILE = "it-ru (2).tmx"
 
 # Инициализация бота
 bot = Bot(token=BOT_TOKEN)
